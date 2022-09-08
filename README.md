@@ -1,4 +1,3 @@
 # Get-it
-Like post-it, but with another verb. Get it?
-
-Introduction to socket and low-level web routes, developed for the Web technologies discipline taught at Insper.
+Frontend --> index.html, getit.css e getit.js
+Backend --> dbfuncs.py (flask, por gentileza rodar no terminal) e db.sqlite
